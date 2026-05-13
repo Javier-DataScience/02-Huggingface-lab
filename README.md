@@ -31,6 +31,7 @@ It demonstrates how modern NLP systems are built using:
 ---
 
 ## 🏗 Project Structure
+```
 src/
 ├── sentiment_service.py
 ├── embedding_service.py
@@ -38,7 +39,7 @@ src/
 ├── tokenizer_demo.py
 ├── embedding_demo.py
 ├── model_hub_demo.py
-
+```
 ---
 
 ## 🧪 What I Learned
