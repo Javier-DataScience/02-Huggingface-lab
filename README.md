@@ -65,6 +65,6 @@ python -m src.embedding_demo
 ________________________________________
 👤 Author
 Alvaro Vega
-Aspiring AI Learning Engineer | Machine Learning Engineer | NLP & LLM Systems
+Aspiring AI Engineer | Machine Learning Engineer | NLP & LLM Systems
 GitHub: https://github.com/Javier-DataScience
 
